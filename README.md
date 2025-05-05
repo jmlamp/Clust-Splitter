@@ -1,5 +1,4 @@
-# Clust-Splitter
-Nonsmooth optimization based incremental clustering algorithm
+# Clust-Splitter $-$ Nonsmooth Optimization Based Incremental Clustering Software Using LMBM
 Clust-Splitter is a nonsmooth optimization (NSO) based clustering algorithm for solving the minimum sum-of-squares clustering (MSSC) problem in large data sets. The method comprises two main components: an incremental algorithm and the Limited memory bundle method (LMBM), which is applied at each iteration to solve both the main and auxiliary clustering problems. Due to its incremental nature, Clust-Splitter not only solves the $k$-partition problem but also all intermediate l-partition problems for $l=1,\ldots,k−1$.
 ## Files included
 * clustsplitter.f95
