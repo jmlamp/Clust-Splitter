@@ -14,7 +14,7 @@ To use the code:
 The algorithm outputs a txt-file containing clustering function values, the Davies-Bouldin and Dunn validity indices, the number of function and subgradient evaluations, and the elapsed CPU times for up to max_cl clusters. The file also includes the data reading time.
 ## References
 * Clust-Splitter:
-  - Lampainen, J., Joki, K., Karmitsa, N., & Mäkelä, M. M. (2025). Clust-Splitter − an efficient nonsmooth optimization-based algorithm for clustering large datasets. arXiv:2505.????1 [math.OC].
+  - Lampainen, J., Joki, K., Karmitsa, N., & Mäkelä, M. M. (2025). Clust-Splitter − an efficient nonsmooth optimization-based algorithm for clustering large datasets. arXiv:2505.04389 [cs.LG].
 * LMBM:
   - Haarala, N., Miettinen, K., & Mäkelä, M. M. (2007). Globally convergent limited memory bundle method for large-scale nonsmooth optimization. Mathematical Programming, 109, 181-205.
   - Haarala, M., Miettinen, K., & Mäkelä, M. M. (2004). New limited memory bundle method for large-scale nonsmooth optimization. Optimization Methods and Software, 19(6), 673-692.
