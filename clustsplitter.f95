@@ -29,7 +29,7 @@
         !|                                                                                      |
         !|                                                                                      |
         !|   To USE the software SET the following PARAMETER VALUES                             |
-		!|      at the end of the clustsplitter.f95 file                                        |
+	!|      at the end of the clustsplitter.f95 file                                        |
         !|                                                                                      |
         !|   used_method                                                                        |
         !|   max_cl                                                                             |
@@ -42,7 +42,7 @@
         !|   opt1, opt2, opt3                                                                   |
         !|   noopt1, noopt2, noopt3, noopt4, noopt5, noopt6                                     |
         !|                                                                                      |
-        !|   Also MODIFY the loop: DO task=... at the end of the clustsplitter.f95 file		    |
+        !|   Also MODIFY the loop: DO task=... at the end of the clustsplitter.f95 file	        |
         !|      to obtain the correct data set.                                                 |
         !|                                                                                      |
         !|                                                                                      |
@@ -53,18 +53,18 @@
         !|   References:                                                                        |
         !|                                                                                      |
         !|   [1] Lampainen, J., Joki, K., Karmitsa, N., & Mäkelä, M. M. "Clust-Splitter − an    |
-		!|       efficient nonsmooth optimization-based algorithm for clustering large          |
-		!|       datasets", arXiv:2505.????1 [math.OC], 2025.                                   |
+	!|       efficient nonsmooth optimization-based algorithm for clustering large  	|
+	!|       datasets", arXiv:2505.04389 [cs.LG], 2025.                             	|
         !|                                                                                      |
         !|                                                                                      |
         !|   [2] N. Haarala, K. Miettinen, M.M. Mäkelä, "Globally Convergent Limited Memory     |
-		!|       Bundle Method for Large-Scale Nonsmooth Optimization", Mathematical            |
-		!|       Programming, Vol. 109, No. 1, pp. 181-205, 2007. DOI 10.1007/s10107-006-0728-2.|
+	!|       Bundle Method for Large-Scale Nonsmooth Optimization", Mathematical            |
+	!|       Programming, Vol. 109, No. 1, pp. 181-205, 2007. DOI 10.1007/s10107-006-0728-2.|
         !|                                                                                      |
         !|                                                                                      |
         !|   [3] M. Haarala, K. Miettinen, M.M. Mäkelä, "New Limited Memory Bundle Method for   |
         !|       Large-Scale Nonsmooth Optimization", Optimization Methods and Software,        |
-		!|       Vol. 19, No. 6, pp. 673-692, 2004. DOI 10.1080/10556780410001689225.	        |
+	!|       Vol. 19, No. 6, pp. 673-692, 2004. DOI 10.1080/10556780410001689225.	        |
         !|                                                                                      |
         !|                                                                                      |
         !| .**..**..**..**..**..**..**..**..**..**..**..**..**..**..**..**..**..**..**..**..**. |
